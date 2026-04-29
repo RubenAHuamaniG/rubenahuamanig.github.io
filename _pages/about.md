@@ -11,4 +11,4 @@ redirect_from:
 
 Estudiante de pregrado en Matemáticas en la **Pontificia Universidad Católica del Perú (PUCP)**.
 
-Información de contacto [aquí](/cv/) y repositorio de GitHub [aquí](https://github.com/RubenAHuamaniG/rubenahuamanig.github.io).
+Información de contacto [aquí](/cv/) y página de GitHub [aquí](https://github.com/RubenAHuamaniG).
