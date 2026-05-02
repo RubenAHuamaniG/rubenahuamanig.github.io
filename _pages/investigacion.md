@@ -4,4 +4,4 @@ title: "Investigación"
 permalink: /investigacion/
 author_profile: true
 ---
-Aquí va la información sobre tu tesis de pregrado en curso.
+Realizando una tesis de pregrado en el área de teoría de representaciones de grupos finitos aplicada a teoría algebraica de códigos bajo la supervisión del Dr. Víctor Torres

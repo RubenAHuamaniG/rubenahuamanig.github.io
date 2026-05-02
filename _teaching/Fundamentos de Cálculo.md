@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Fundamentos de Cálculo (1MAT05) (Asistente de Docencia)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Curso de Pregrado"
+permalink: /teaching/Fundamentos de Cálculo
+venue: "Pontificia Universidad Católica del Perú (PUCP)"
+location: "Lima, Perú"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Asistente de Docencia (Jefe de Práctica) para el curso de Fundamentos de Cálculo (1MAT05) durante el semestre 2026-1 bajo la conducción del profesor Víctor Torres.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Conducción de sesiones prácticas enfocadas en la resolución de problemas de desigualdades, funciones, precálculo y límites
+* Calificación de prácticas calificadas.

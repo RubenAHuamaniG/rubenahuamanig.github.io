@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Fundamentos de Análisis 1 (1MAT10) (Asistente de Docencia)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Curso de Pregrado"
+permalink: /teaching/Fundamentos de Análisis 1
+venue: "Pontificia Universidad Católica del Perú (PUCP)"
+location: "Lima, Perú"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Asistente de Docencia (Jefe de Práctica) para el curso de Fundamentos de Análisis 1 (1MAT10) durante los semestres 2024-1 y 2024-2 bajo la conducción del profesor Jesús Zapata.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Conducción de sesiones prácticas enfocadas en la resolución de problemas formales de sucesiones, continuidad, límites y derivadas.
+* Calificación de prácticas calificadas.
